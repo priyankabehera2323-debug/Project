@@ -440,11 +440,6 @@ screenshots/
 ├── 04_kali_terminal_login.png
 ├── 05_kali_graphical_desktop.png
 └── 06_virtualbox_integration.png
-│
-├── documentation/
-│   ├── kali-installation.md
-│   ├── network-configuration.md
-│   └── troubleshooting.md
  
 ```
 
