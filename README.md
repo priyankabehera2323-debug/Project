@@ -445,9 +445,7 @@ screenshots/
 │   ├── kali-installation.md
 │   ├── network-configuration.md
 │   └── troubleshooting.md
-│
-└── labs/
-    └── README.md
+ 
 ```
 
 > Screenshots are sanitized — no passwords, keys, or tokens are included.
