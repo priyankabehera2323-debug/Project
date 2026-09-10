@@ -138,7 +138,13 @@ Standard Debian-based install: create the user account, configure networking, pa
 └── /dev/sda5   swap     2.2 GB   swap
 ```
 
-GRUB was installed to the **whole disk** (`/dev/sda`), not a specific partition, so the VM boots correctly on its own.
+### GRUB Bootloader Configuration
+
+GRUB was configured to use the VM's primary virtual disk (`/dev/sda`) as the bootloader installation target. The installer identifies `/dev/sda` as the primary disk, rather than a specific partition such as `/dev/sda1`.
+
+![GRUB Bootloader Configuration](screenshots/06_grub_configuration.png)
+
+**Evidence:** The Debian installer displayed `/dev/sda` as the available bootloader installation target for the VirtualBox disk.
 
 ![Partition Configuration](screenshots/05_partition_configuration.png)
 
