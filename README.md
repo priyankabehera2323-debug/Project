@@ -2,6 +2,8 @@
 
 **A controlled, isolated environment built for security monitoring, detection engineering, and incident-response practice**
 
+---
+
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-404040?style=flat-square&labelColor=C00000)
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-404040?style=flat-square&labelColor=000000)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white)
