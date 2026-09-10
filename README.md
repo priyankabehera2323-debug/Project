@@ -425,18 +425,13 @@ cybersecurity-virtual-lab/
 ├── README.md
 │
 ├── screenshots/
-│   ├── 01_virtualbox_vm_configuration.png
-│   ├── 02_cyberlab_network_configuration.png
-│   ├── 03_kali_installation.png
-│   ├── 04_static_ip_configuration.png
-│   ├── 05_partition_configuration.png
-│   ├── 06_grub_configuration.png
-│   ├── 07_kali_terminal_login.png
-│   ├── 08_kali_graphical_desktop.png
-│   ├── 09_ip_address_verification.png
-│   ├── 10_network_connectivity.png
-│   ├── 11_shared_folder_verification.png
-│   └── 12_virtualbox_integration.png
+screenshots/
+├── 01_cyberlab_network_configuration.png
+├── 02_partition_configuration.png
+├── 03_grub_configuration.png
+├── 04_kali_terminal_login.png
+├── 05_kali_graphical_desktop.png
+└── 06_virtualbox_integration.png
 │
 ├── documentation/
 │   ├── kali-installation.md
